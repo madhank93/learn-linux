@@ -1,0 +1,72 @@
+{
+  "rootTopicKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
+  "editorRootTopicKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
+  "focusKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
+  "extData": {},
+  "topics": [
+    {
+      "key": "90eac960-b2de-4878-b9e2-09558dfcdf89",
+      "parentKey": null,
+      "subKeys": [],
+      "collapse": false,
+      "style": "{\"contentStyle\":{\"background\":\"#f8e71c\"}}",
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "LINUX"
+        },
+        {
+          "type": "DESC",
+          "data": "### What is an OS ?\n\nThe OS’s primary purpose is to manage system processes and resources. The Operating system acts as an interface between the user and the underlying hardware system. All application programs run in an enclosed \\(isolated\\) environment created by the operating system so that it doesn't interfer with other applications resources."
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": null
+}
