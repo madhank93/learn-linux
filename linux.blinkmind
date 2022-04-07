@@ -1,13 +1,20 @@
 {
   "rootTopicKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
   "editorRootTopicKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
-  "focusKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
-  "extData": {},
+  "focusKey": "cfb44164-7808-4934-b98d-693e0fa90c50",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
   "topics": [
     {
       "key": "90eac960-b2de-4878-b9e2-09558dfcdf89",
       "parentKey": null,
-      "subKeys": [],
+      "subKeys": [
+        "599dddfa-4956-4ca4-a87c-f92bf2f22c6e",
+        "cfb44164-7808-4934-b98d-693e0fa90c50"
+      ],
       "collapse": false,
       "style": "{\"contentStyle\":{\"background\":\"#f8e71c\"}}",
       "blocks": [
@@ -18,6 +25,65 @@
         {
           "type": "DESC",
           "data": "### What is an OS ?\n\nThe OS’s primary purpose is to manage system processes and resources. The Operating system acts as an interface between the user and the underlying hardware system. All application programs run in an enclosed \\(isolated\\) environment created by the operating system so that it doesn't interfer with other applications resources."
+        }
+      ]
+    },
+    {
+      "key": "599dddfa-4956-4ca4-a87c-f92bf2f22c6e",
+      "parentKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Commands"
+        }
+      ]
+    },
+    {
+      "key": "cfb44164-7808-4934-b98d-693e0fa90c50",
+      "parentKey": "90eac960-b2de-4878-b9e2-09558dfcdf89",
+      "subKeys": [
+        "86541995-fb76-4f90-b701-946b68a8e367",
+        "e1d70cc1-988c-421e-b0ca-cb92ecb9b063"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Users and\nPermissions"
+        },
+        {
+          "type": "DESC",
+          "data": "For more refference,\n* [https://www.digitalocean.com/community/tutorials/an\\-introduction\\-to\\-linux\\-permissions](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-permissions)\n\n"
+        }
+      ]
+    },
+    {
+      "key": "86541995-fb76-4f90-b701-946b68a8e367",
+      "parentKey": "cfb44164-7808-4934-b98d-693e0fa90c50",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "Super user"
+        }
+      ]
+    },
+    {
+      "key": "e1d70cc1-988c-421e-b0ca-cb92ecb9b063",
+      "parentKey": "cfb44164-7808-4934-b98d-693e0fa90c50",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "User"
         }
       ]
     }
@@ -68,5 +134,5 @@
       }
     }
   },
-  "formatVersion": null
+  "formatVersion": "0.0"
 }
