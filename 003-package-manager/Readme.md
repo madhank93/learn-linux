@@ -10,5 +10,11 @@
 
 Note:
 
-- Package manager comes builtin in every Linux distribution. In Ubuntu, **APT (Advanced Package Tool)** package manager available along with **APT-GET** package manager. APT is the preferred and user friendly to use.
-- Package manager always gets the application from the repository
+- Package manager comes builtin in every Linux distribution. In Ubuntu, **APT (Advanced Package Tool)** package manager available along with **APT-GET** package manager. APT is the preferred and user friendly to use
+- Package manager always gets the applications list from the repository
+- APT configurations are available at `/etc/apt`
+- Some times applications (browsers, IDEs) might not be available in APT package manager,
+  - as an alternative **Snap package manager** or Ubuntu Software Center
+  - another approach is to Add repository to APT using `add-apt-repository` command which will add it to `/etc/apt/source.list`
+- Debian based linux distribution (Ubuntu, Debian, Mint) uses **APT** package manager
+- Red Hat based linux distribution (RHEL, CentOS, Fedora) uses **YUM** package manager
