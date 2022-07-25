@@ -29,3 +29,5 @@ Permissions can be managed at two levels
 ### File permissions and Ownership
 
 ![file-permission](file_permissions.jpg)
+
+![sym-numeric-permission](sym-numeric-file-permission.png)
