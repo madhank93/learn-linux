@@ -2,11 +2,11 @@
 
 ## OSI model
 
-![OSI_model_1](/img/osi-model.png)
+![OSI_model_1](img/osi-model.png)
 
 Image resource - https://sites.google.com/site/yutbms/osi-model
 
-![OSI_model_2](/img/seven-layers-of-OSI-model.png)
+![OSI_model_2](img/seven-layers-of-OSI-model.png)
 
 Image resource - https://community.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html
 
